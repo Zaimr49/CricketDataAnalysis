@@ -93,6 +93,13 @@ Welcome to our repository where data meets passion in the realm of cricket! This
 ## 📝 Conclusion
 Our project bridges the gap between raw data and actionable cricket insights. It demonstrates how data-driven strategies can be applied to enhance understanding and performance in sports analytics.
 
+## 📚 Additional Resources
+
+- **Final Project Blog**: Complete insights into the project. [Read here](https://medium.com/@mustafaaplus52/batting-through-numbers-a-data-driven-analysis-of-cricket-4267fb9db798)
+
+- **EDA Blog**: Deep dive into the exploratory data analysis. [Read here](https://medium.com/@mustafaaplus52/d450423c4fa9)
+
+
 ## 🤝 Contributing
 Feel free to fork this repo, suggest changes via pull requests, or discuss ideas in issues. Your contributions are always welcome!
 
